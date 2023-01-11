@@ -7,4 +7,4 @@ The phase wise objectives are as follows:
 - Predicting premature deaths in Allegheny County and identifying 5 most important factors influencing premature death
 - Formulating  recommendations for reducing premature death in Allegheny County
 
-All insights and recommendations can be found here along with the code: [Code]
+All insights and recommendations can be found here along with the code: [Code](Premature-Death-Predictor.ipynb)
